@@ -1,7 +1,13 @@
-emoji :v: y'all!
+emoje:relieved:
 ***
 about_me
->  Hi I'm Mark, I like to code and do 3D graphics.
+>  Hi I'm Arnel, I like to watch anime and read mangga :).
 
 hugot_lines/other_stuffs
-> "Happiness is just a matter of perspective. It's your choice how to look at the world".
+> "Hindi ko kilanlan ang
+type A, 
+type A-b,
+or type O nga dugo..
+
+ang kinahanglan ko Typu U..
+".
